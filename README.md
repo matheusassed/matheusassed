@@ -9,7 +9,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/45eae44369d74355a16511ff0b8e0f4b.png?r=nrn"
+      src="https://github.com/matheusassed/matheusassed/raw/main/devcard.svg"
     />
   </a>
 </div>
