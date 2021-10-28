@@ -1,13 +1,23 @@
 
 # Olá!✨ Eu sou o Matheus Assed, desenvolvedor front-end 🧑‍💻!
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusassed&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusassed&layout=compact&langs_count=7&theme=outrun"/>
+<div align="left">
+  <img style="width: 49%; display: block;" src="https://github-readme-stats.vercel.app/api?username=matheusassed&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img style="width: 49%; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusassed&layout=compact&langs_count=7&theme=outrun"/>
+
+  <a href="https://api.daily.dev/matheusassed" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/45eae44369d74355a16511ff0b8e0f4b.png?r=nrn"
+    />
+  </a>
 </div>
 
+
+
 ## Tecnologias que trabalho:
-<div align="center">
+<div align="left">
   <img alt="Assed-Tech" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="Assed-Tech" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Assed-Tech" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
@@ -20,7 +30,7 @@
 </div>
   
  ## Como entrar em contato comigo:
-<div align="center">
+<div align="left">
   <a href="https://instagram.com/matheusassed" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:matheusassed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/matheusassed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
