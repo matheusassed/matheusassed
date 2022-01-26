@@ -4,14 +4,6 @@
 <div align="left">
   <img style="width: 49%; display: block;" src="https://github-readme-stats.vercel.app/api?username=matheusassed&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img style="width: 49%; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusassed&layout=compact&langs_count=7&theme=outrun"/>
-
-  <a href="https://api.daily.dev/matheusassed" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/matheusassed/matheusassed/raw/main/devcard.svg"
-    />
-  </a>
 </div>
 
 
